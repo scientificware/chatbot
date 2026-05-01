@@ -6,10 +6,10 @@ description: Assistant interactif pour les professeurs de sécurité en Lycée P
 #  **ChatBot - Conception de Cours de Sécurité**
 *Un assistant **100% Markdown** pour vous guider dans la création de cours de sécurité en Lycée Professionnel.*
 
-1. [Menu Principal](Menu Principal)
+1. [Menu Principal](choix 1)
 2. [Deuxième choix](choix 2)
 
-## ** Menu Principal**
+## choix 1
 *Cliquez sur une question pour obtenir une réponse :*
 
 [Comment commencer la conception d'un cours de sécurité ?](#comment-commencer)
