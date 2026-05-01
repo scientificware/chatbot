@@ -1,16 +1,16 @@
 ---
-title: 🤖 ChatBot - Conception de Cours de Sécurité (Lycée Pro)
+title: ChatBot - Conception de Cours de Sécurité (Lycée Pro)
 description: Assistant interactif pour les professeurs de sécurité en Lycée Professionnel. Posez vos questions en cliquant sur les boutons ou en suivant les liens.
 ---
 
-# 🤖 **ChatBot - Conception de Cours de Sécurité**
+#  **ChatBot - Conception de Cours de Sécurité**
 *Un assistant **100% Markdown** pour vous guider dans la création de cours de sécurité en Lycée Professionnel.*
 
 ---
 
 ---
 
-## **💬 Menu Principal**
+## ** Menu Principal**
 *Cliquez sur une question pour obtenir une réponse :*
 
 [Comment commencer la conception d'un cours de sécurité ?](#comment-commencer)
